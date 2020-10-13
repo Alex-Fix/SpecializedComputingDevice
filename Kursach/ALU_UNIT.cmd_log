@@ -1,0 +1,2 @@
+sch2sym -intstyle ise -family spartan3a -refsym ALU_UNIT F:/Kursach3.0/Kursach/ALU_UNIT.sch F:/Kursach3.0/Kursach/ALU_UNIT.sym 
+sch2sym -intstyle ise -family spartan3a -refsym ALU_UNIT F:/Kursach3.0/Kursach/ALU_UNIT.sch F:/Kursach3.0/Kursach/ALU_UNIT.sym 

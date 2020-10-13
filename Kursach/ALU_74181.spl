@@ -1,0 +1,13 @@
+[Inputs]
+M
+CN
+=S[3:0]=
+=notA[3:0]=
+=notB[3:0]=
+[Outputs]
+AEQB
+CN4
+notP
+notG
+=notF[3:0]=
+[BiDir]

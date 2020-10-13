@@ -1,0 +1,7 @@
+[Inputs]
+DIR
+notOE
+[Outputs]
+[BiDir]
+=A[7:0]=
+=B[7:0]=

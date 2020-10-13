@@ -1,0 +1,8 @@
+[Inputs]
+notCE
+notOE
+notWE
+=A[10:0]=
+[Outputs]
+[BiDir]
+=DQ[7:0]=

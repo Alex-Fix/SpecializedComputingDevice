@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="Kursach.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="ALU_74181.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="ALU_74181.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="ALU_UNIT.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="ALU_UNIT.vhf"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="ALU_UNIT_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="A_FORMATTER.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="A_FORMATTER.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="A_FORMATTER_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="BUF8.spl"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="BUF_SN74LV245.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="BUF_SN74LV245.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="CT_74193.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="CT_74193.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="CT_74193_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="CU.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="CU.vhf"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="CU_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="MUX_74150.spl"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="MUX_74257.spl"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="OperationUnit.vhf"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="OperationUnit_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="OperationUnit_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="OperationUnit_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="Q_DEFORMATTER.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="Q_DEFORMATTER.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Q_DEFORMATTER_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="RAM_CY7C128A.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="RAM_CY7C128A.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="RAM_UNIT.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="RAM_UNIT.vhf"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="RAM_UNIT_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="REG_74198.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="REG_74198.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="REG_UNIT.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="REG_UNIT.vhf"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="REG_UNIT_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="ROM1_AT27C512R.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="ROM1_AT27C512R.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="ROM1_AT27C512R_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="ROM2_AT27C512R.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="ROM2_AT27C512R.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="ROM2_AT27C512R_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="ROM3_AT27C512R.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="ROM3_AT27C512R.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="ROM3_AT27C512R_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1589024878" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1589024878">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1589024878" xil_pn:in_ck="-3789309904654210076" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1589024878">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputRemoved"/>
+    </transform>
+    <transform xil_pn:end_ts="1589024878" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-2692824417797799625" xil_pn:start_ts="1589024878">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1589024881" xil_pn:in_ck="-8913757907748590398" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="2505501758882110143" xil_pn:start_ts="1589024878">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ALU_UNIT.vhf"/>
+      <outfile xil_pn:name="CU.vhf"/>
+      <outfile xil_pn:name="OperationUnit.vhf"/>
+      <outfile xil_pn:name="RAM_UNIT.vhf"/>
+      <outfile xil_pn:name="REG_UNIT.vhf"/>
+    </transform>
+    <transform xil_pn:end_ts="1589024881" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-1662101525148825941" xil_pn:start_ts="1589024881">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1589024881" xil_pn:in_ck="-856778335773225148" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1589024881">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputRemoved"/>
+    </transform>
+    <transform xil_pn:end_ts="1589024909" xil_pn:in_ck="-856778335773225148" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-8813981646269924484" xil_pn:start_ts="1589024902">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputChanged"/>
+      <status xil_pn:value="OutputRemoved"/>
+    </transform>
+    <transform xil_pn:end_ts="1589024910" xil_pn:in_ck="7897014209782100680" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-2652215112288687479" xil_pn:start_ts="1589024909">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputChanged"/>
+      <status xil_pn:value="OutputRemoved"/>
+    </transform>
+  </transforms>
+
+</generated_project>

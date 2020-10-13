@@ -1,0 +1,58 @@
+Running: D:\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o F:/Kursach3.0/Kursach/OperationUnit_isim_beh.exe -prj F:/Kursach3.0/Kursach/OperationUnit_beh.prj work.OperationUnit 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "F:/Kursach3.0/Kursach/ROM3_AT27C512R.vhd" into library work
+Parsing VHDL file "F:/Kursach3.0/Kursach/ROM2_AT27C512R.vhd" into library work
+Parsing VHDL file "F:/Kursach3.0/Kursach/ROM1_AT27C512R.vhd" into library work
+Parsing VHDL file "F:/Kursach3.0/Kursach/REG_74198.vhd" into library work
+Parsing VHDL file "F:/Kursach3.0/Kursach/RAM_CY7C128A.vhd" into library work
+Parsing VHDL file "F:/Kursach3.0/Kursach/Q_DEFORMATTER.vhd" into library work
+Parsing VHDL file "F:/Kursach3.0/Kursach/BUF_SN74LV245.vhd" into library work
+Parsing VHDL file "F:/Kursach3.0/Kursach/A_FORMATTER.vhd" into library work
+Parsing VHDL file "F:/Kursach3.0/Kursach/ALU_74181.vhd" into library work
+Parsing VHDL file "F:/Kursach3.0/Kursach/REG_UNIT.vhf" into library work
+Parsing VHDL file "F:/Kursach3.0/Kursach/RAM_UNIT.vhf" into library work
+Parsing VHDL file "F:/Kursach3.0/Kursach/CU.vhf" into library work
+Parsing VHDL file "F:/Kursach3.0/Kursach/CT_74193.vhd" into library work
+Parsing VHDL file "F:/Kursach3.0/Kursach/ALU_UNIT.vhf" into library work
+Parsing VHDL file "F:/Kursach3.0/Kursach/OperationUnit.vhf" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 167828 KB
+Fuse CPU Usage: 749 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling architecture alu_74181 of entity ALU_74181 [alu_74181_default]
+Compiling architecture behavioral of entity ALU_UNIT_MUSER_OperationUnit [alu_unit_muser_operationunit_def...]
+Compiling architecture buf_sn74lv245 of entity BUF_SN74LV245 [buf_sn74lv245_default]
+Compiling architecture ct_74193 of entity CT_74193 [ct_74193_default]
+Compiling architecture reg_74198 of entity REG_74198 [reg_74198_default]
+Compiling architecture behavioral of entity REG_UNIT_MUSER_OperationUnit [reg_unit_muser_operationunit_def...]
+Compiling architecture ram_cy7c128a of entity RAM_CY7C128A [ram_cy7c128a_default]
+Compiling architecture inv_v of entity INV [inv_default]
+Compiling architecture behavioral of entity RAM_UNIT_MUSER_OperationUnit [ram_unit_muser_operationunit_def...]
+Compiling architecture rom1_at27c512r of entity ROM1_AT27C512R [rom1_at27c512r_default]
+Compiling architecture rom2_at27c512r of entity ROM2_AT27C512R [rom2_at27c512r_default]
+Compiling architecture rom3_at27c512r of entity ROM3_AT27C512R [rom3_at27c512r_default]
+Compiling architecture q_deformatter of entity Q_DEFORMATTER [q_deformatter_default]
+Compiling architecture a_formatter of entity A_FORMATTER [a_formatter_default]
+Compiling architecture and5b5_v of entity AND5B5 [and5b5_default]
+Compiling architecture and5b4_v of entity AND5B4 [and5b4_default]
+Compiling architecture and5b3_v of entity AND5B3 [and5b3_default]
+Compiling architecture and2_v of entity AND2 [and2_default]
+Compiling architecture or3_v of entity OR3 [or3_default]
+Compiling architecture and4b2_v of entity AND4B2 [and4b2_default]
+Compiling architecture and4b3_v of entity AND4B3 [and4b3_default]
+Compiling architecture behavioral of entity CU_MUSER_OperationUnit [cu_muser_operationunit_default]
+Compiling architecture and2b1_v of entity AND2B1 [and2b1_default]
+Compiling architecture behavioral of entity operationunit
+Time Resolution for simulation is 1ps.
+Waiting for 19 sub-compilation(s) to finish...
+Compiled 51 VHDL Units
+Built simulation executable F:/Kursach3.0/Kursach/OperationUnit_isim_beh.exe
+Fuse Memory Usage: 185504 KB
+Fuse CPU Usage: 1249 ms

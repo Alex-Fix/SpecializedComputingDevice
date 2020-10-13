@@ -1,0 +1,2 @@
+vhdtdtfi -lib work MUX_74257.vhd -prj Kursach -o MUX_74257.spl -module MUX_74257 -template D:/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3a MUX_74257.spl F:/Kursach3.0/Kursach/MUX_74257.sym 

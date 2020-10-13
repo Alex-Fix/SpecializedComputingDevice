@@ -1,0 +1,11 @@
+[Inputs]
+CLK
+notCLR
+S1
+S0
+LEFT
+RIGHT
+=D[7:0]=
+[Outputs]
+=Q[7:0]=
+[BiDir]

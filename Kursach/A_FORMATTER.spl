@@ -1,0 +1,7 @@
+[Inputs]
+OUT_MUX_ADDR
+OUT_MUX_SG
+=Present_ST[4:0]=
+[Outputs]
+=A[15:0]=
+[BiDir]

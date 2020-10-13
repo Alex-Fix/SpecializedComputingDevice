@@ -1,0 +1,2 @@
+sch2sym -intstyle ise -family spartan3a -refsym CU F:/Kursach3.0/Kursach/CU.sch F:/Kursach3.0/Kursach/CU.sym 
+sch2sym -intstyle ise -family spartan3a -w -refsym CU F:/Kursach3.0/Kursach/CU.sch F:/Kursach3.0/Kursach/CU.sym 

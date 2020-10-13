@@ -1,0 +1,11 @@
+[Inputs]
+CLR
+notLOAD
+CLK_UP
+CLK_DOWN
+=D[3:0]=
+[Outputs]
+G15
+L0
+=Q[3:0]=
+[BiDir]

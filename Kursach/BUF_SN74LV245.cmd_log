@@ -1,0 +1,5 @@
+vhdtdtfi -lib work BUF_SN74LV245.vhd -prj Kursach -o BUF_SN74LV245.spl -module BUF_SN74LV245 -template D:/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work BUF_SN74LV245.vhd -prj Kursach -o BUF_SN74LV245.spl -module BUF_SN74LV245 -template D:/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3a BUF_SN74LV245.spl F:/Kursach3.0/Kursach/BUF_SN74LV245.sym 
+vhdtdtfi -lib work BUF_SN74LV245.vhd -prj Kursach -o BUF_SN74LV245.spl -module BUF_SN74LV245 -template D:/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3a BUF_SN74LV245.spl F:/Kursach3.0/Kursach/BUF_SN74LV245.sym 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "F:/Kursach3.0/Kursach/OperationUnit_isim_beh.exe" -prj "F:/Kursach3.0/Kursach/OperationUnit_beh.prj" "work.OperationUnit" 
